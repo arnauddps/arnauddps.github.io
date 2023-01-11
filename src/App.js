@@ -25,7 +25,7 @@ function App() {
         <Route path="/print" exact element={<Print/>}/>
         <Route path="/contact" exact element={<Contact/>}/>
         
-        <Route path ="/main-gallery-terre" exact element={<MainGalleryTerre/>}/>
+        <Route path ="/main_gallery_terre" exact element={<MainGalleryTerre/>}/>
 
         <Route path ="/Gallery_france" exact element={<Gallery_france/>}/>
         <Route path ="/Gallery_italie" exact element={<Gallery_italie/>}/>
