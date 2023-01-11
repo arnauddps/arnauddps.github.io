@@ -1,24 +1,41 @@
-import logo from './logo.svg';
+import React from 'react';
 import './App.css';
+import Navbar from "./components/Navbar";
+
+import {BrowserRouter as Router, Route, Routes} from 'react-router-dom';
+import Home from './components/pages/Home';
+import Photos from './components/pages/Photos';
+import Print from './components/pages/Print';
+import Contact from './components/pages/Contact';
+
+import MainGalleryTerre from './components/pages/Terre/main_gallery_terre';
+import Gallery_france from './components/pages/Terre/France/Gallery_france';
+import Gallery_italie from './components/pages/Terre/Italie/Gallery_italie';
+import Gallery_canada from './components/pages/Terre/Canada/Gallery_canada';
+import Gallery_USA from './components/pages/Terre/USA/Gallery_USA';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+    <Router>
+      <Navbar />
+      <Routes>
+        <Route path="/" exact element={<Home/>}/>
+        <Route path="/photos" exact element={<Photos/>}/>
+        <Route path="/print" exact element={<Print/>}/>
+        <Route path="/contact" exact element={<Contact/>}/>
+        
+        <Route path ="/main-gallery-terre" exact element={<MainGalleryTerre/>}/>
+
+        <Route path ="/Gallery_france" exact element={<Gallery_france/>}/>
+        <Route path ="/Gallery_italie" exact element={<Gallery_italie/>}/>
+        <Route path ="/Gallery_canada" exact element={<Gallery_canada/>}/>
+        <Route path ="/Gallery_USA" exact element={<Gallery_USA/>}/>
+
+      </Routes>
+    </Router>
+    
+    </>
   );
 }
 
