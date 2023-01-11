@@ -25,16 +25,19 @@ function Banner(props) {
       <h1>{props.text_h}</h1>
       <p1>{props.text_p}</p1>
 
+
         <div className='banner-btns'>
+        <a href= {props.link_button}>
           <Button
           className='btns'
           buttonStyle='btn--outline'
           buttonSize='btn--large'
-          path = {props.link_button}
+          // path = {props.link_button}
           element = {props.link_element}
         >
           {props.text_button}
            </Button>
+           </a>
       </div>
 </div>
 
