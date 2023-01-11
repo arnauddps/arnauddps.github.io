@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.c64c568e.css",
-    "main.js": "./static/js/main.f5f5a5f8.js",
+    "main.js": "./static/js/main.e7cdb765.js",
     "static/media/cotentin.mp4": "./static/media/cotentin.0c527685baeec30d1a80.mp4",
     "static/media/agathe.jpg": "./static/media/agathe.dbb4560a9f519b4d3494.jpg",
     "static/media/nono.jpg": "./static/media/nono.ce88f0d3cb10816413ad.jpg",
@@ -20,10 +20,10 @@
     "static/media/flag_ita.jpg": "./static/media/flag_ita.2d7c05f0a5d5e0ace28f.jpg",
     "index.html": "./index.html",
     "main.c64c568e.css.map": "./static/css/main.c64c568e.css.map",
-    "main.f5f5a5f8.js.map": "./static/js/main.f5f5a5f8.js.map"
+    "main.e7cdb765.js.map": "./static/js/main.e7cdb765.js.map"
   },
   "entrypoints": [
     "static/css/main.c64c568e.css",
-    "static/js/main.f5f5a5f8.js"
+    "static/js/main.e7cdb765.js"
   ]
 }
