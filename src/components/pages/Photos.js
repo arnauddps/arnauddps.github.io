@@ -33,7 +33,7 @@ export default function Photos() {
     text_h ='SPACE'
     text_p = 'Watch & Look Up'
     text_button = "DISCOVER"
-    link_button = "/sign-up"
+    link_button = "/contact"
     src_video = '/videos/video-1.mp4'
     image = {photoEspace}
     />
