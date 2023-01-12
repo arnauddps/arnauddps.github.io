@@ -8,7 +8,7 @@ import Photos from './components/pages/Photos';
 import Print from './components/pages/Print';
 import Contact from './components/pages/Contact';
 
-import MainGalleryTerre from './components/pages/Terre/main_gallery_terre';
+import MainGalleryTerre from './components/pages/Terre/mainGalleryTerre';
 import Gallery_france from './components/pages/Terre/France/Gallery_france';
 import Gallery_italie from './components/pages/Terre/Italie/Gallery_italie';
 import Gallery_canada from './components/pages/Terre/Canada/Gallery_canada';
@@ -25,7 +25,7 @@ function App() {
         <Route path="/print" exact element={<Print/>}/>
         <Route path="/contact" exact element={<Contact/>}/>
         
-        <Route path ="/main_gallery_terre" exact element={<MainGalleryTerre/>}/>
+        <Route path ="/mainGalleryTerre" exact element={<MainGalleryTerre/>}/>
 
         <Route path ="/Gallery_france" exact element={<Gallery_france/>}/>
         <Route path ="/Gallery_italie" exact element={<Gallery_italie/>}/>

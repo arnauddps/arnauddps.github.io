@@ -80,13 +80,13 @@ function Navbar() {
           </ul>
 
 
-{button && <Button buttonStyle='btn--primary' >
-<Link to='/contact' 
-className='nav-links-contact'
->
-  Contact
-</Link>
-</Button>}
+           {button && <Button buttonStyle='btn--primary' >
+            <Link to='/contact' 
+                  className='nav-links-contact'
+            >
+              Contact
+            </Link>
+            </Button>}
 
 
 

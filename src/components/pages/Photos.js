@@ -21,7 +21,7 @@ export default function Photos() {
     text_h ='EARTH'
     text_p = 'Back on track'
     text_button = "DISCOVER"
-    link_button = "/main_gallery_terre"
+    link_button = "/mainGalleryTerre"
     // src_video = '/videos/video-2.mp4'
     image = {photoTerre}
     />
