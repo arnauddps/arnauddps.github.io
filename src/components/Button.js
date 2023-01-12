@@ -38,16 +38,16 @@ export const Button = ({
   return (
     <>
 
-<a href = {path}>
+{/* <a href = {path}> */}
 <button
         className={`btn ${checkButtonStyle} ${checkButtonSize}`}
         onClick={onClick}
         type={type}
-        // path = {path}
+        path = {path}
       >
         {children}
       </button>
-  </a>
+  {/* </a> */}
     
 
 </>

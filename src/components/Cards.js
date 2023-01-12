@@ -19,13 +19,13 @@ function Cards() {
               src= {photoPortrait}
               text='People who have the power'
               label='Portraits'
-              path='/services'
+              path='/photos'
             />
             <CardItem
               src= {photoCanada}
               text='Travel through the mountains of Eastern Canada'
               label='Canada'
-              path='/services'
+              path='/mainGalleryTerre'
             />
           </ul>
           <ul className='cards__items'>
