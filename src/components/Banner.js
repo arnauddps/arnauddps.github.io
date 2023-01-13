@@ -27,17 +27,17 @@ function Banner(props) {
 
 
         <div className='banner-btns'>
-        <Link to={props.link_button}>
+        {/* <Link to={props.link_button}> */}
           <Button
           className='btns'
           buttonStyle='btn--outline'
           buttonSize='btn--large'
-          // path = {props.link_button}
+          path = {props.link_button}
           element = {props.link_element}
         >
           {props.text_button}
            </Button>
-           </Link>
+           {/* </Link> */}
       </div>
 </div>
 
