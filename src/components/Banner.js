@@ -1,7 +1,7 @@
 import React from 'react';
 // import {BrowserRouter as Router, Link} from 'react-router-dom';
 import { Button } from './Button';
-// import { Link } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 import './Banner.css';
 
 
@@ -27,7 +27,7 @@ function Banner(props) {
 
 
         <div className='banner-btns'>
-        <a href= {props.link_button}>
+        <Link to={props.link_button}>
           <Button
           className='btns'
           buttonStyle='btn--outline'
@@ -37,7 +37,7 @@ function Banner(props) {
         >
           {props.text_button}
            </Button>
-           </a>
+           </Link>
       </div>
 </div>
 
