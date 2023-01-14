@@ -7,7 +7,10 @@ import "../../../Navbar.css";
 function importAll(r) {
   return r.keys().map(r);
 }
-const images = importAll(require.context('../../../../data/images/Terre/Canada', false, /\.(png|jpe?g|svg)$/));
+const images1 = importAll(require.context('../../../../data/images/Terre/USA', false, /\.(png|jpe?g|svg)$/));
+const images2 = importAll(require.context('../../../../data/images/Terre/USA/chinatown', false, /\.(png|jpe?g|svg)$/));
+const images = images2.concat(images1);
+
 
 const Gallery_canada = () => {
   return (
@@ -17,8 +20,15 @@ const Gallery_canada = () => {
   middle = 'white'
   right = 'red'
   images_list = {images}></Gallery>
-  
+
+{/* <Gallery
+  left = 'red'
+  middle = 'white'
+  right = 'red'
+  images_list = {images2}></Gallery> */}
+
    <Footer/>
+
   </>);
 };
  

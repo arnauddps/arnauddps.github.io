@@ -48,7 +48,7 @@ export default function Contact() {
 
   <div className='logos_block'>
     <div className='logos_block_case'>
-    <a href="mailto:arnaud.dps@hotmail.fr" target="_blank" title='E-Mail' className='Mail'>
+    <a href="mailto:arnauddupuis.photo@gmail.com" target="_blank" title='E-Mail' className='Mail'>
     <ButtonExtern>
     <i class="fa">&#xf0e0;</i>
     MAIL

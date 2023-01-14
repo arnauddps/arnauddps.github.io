@@ -8,7 +8,7 @@ import '../Banner.css';
 // import {BrowserRouter as Router, Route, Routes} from 'react-router-dom';
 
 import photoTerre from "../../data/images/Terre/USA/newyork.jpg";
-import photoEspace from "../../data/images/Terre/USA/img-5.jpg";
+import photoEspace from "../../data/images/Espace/galaxy/m31.jpg";
 
 
 export default function Photos() {
@@ -31,9 +31,9 @@ export default function Photos() {
   <div className='Banner_espace'>
     <Banner
     text_h ='SPACE'
-    text_p = 'Watch & Look Up'
+    text_p = 'Look up & explore the past'
     text_button = "DISCOVER"
-    link_button = "/contact"
+    link_button = "/mainGalleryEspace"
     src_video = '/videos/video-1.mp4'
     image = {photoEspace}
     />
