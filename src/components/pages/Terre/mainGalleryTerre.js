@@ -6,7 +6,7 @@ import "../Gallery.css";
 import "../../Navbar.css";
 
 import photoFrance from "../../../data/images/Terre/France/flag_fr.jpg";
-import photoItalie from "../../../data/images/Terre/Italie/flag_ita.jpg";
+import photoItalie from "../../../data/images/Terre/banners/banner_ita.png";
 import photoCanada from "../../../data/images/Terre/Canada/1.jpeg";
 import photoUSA from "../../../data/images/Terre/USA/newyork.jpg";
 

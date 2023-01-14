@@ -93,7 +93,7 @@ video {
     /* margin-top: -500px; */
   }
 
-  .banner-container > p {
+  .banner-container > p1 {
     font-size: 30px;
   }
 
@@ -105,4 +105,13 @@ video {
   .btn {
     width: 100%;
   }
+}
+
+
+
+@media screen and (max-width: 460px) {
+  .banner-container > p1 {
+    font-size: 20px;
+  }
+  
 }

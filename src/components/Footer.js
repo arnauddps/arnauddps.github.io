@@ -1,6 +1,6 @@
 import React from 'react';
 import './Footer.css';
-import { Button } from './Button';
+// import { Button } from './Button';
 import { ButtonExtern } from './ButtonExtern';
 import { Link } from 'react-router-dom';
 
@@ -51,6 +51,8 @@ function Footer() {
             <Link to='/photos'>View photos</Link>
           </div>
 
+</div>
+<div className='footer-link-wrapper'>
           <div class='footer-link-items'>
             <h2>Contact me</h2>
             <Link to='/contact'>Contact</Link>
@@ -78,7 +80,7 @@ function Footer() {
 
           <div class='social-icons'>
 
-          <a href="mailto:arnaud.dps@hotmail.fr" target="_blank" title='E-Mail' className='Mail'>
+          <a href="mailto:arnaud.dps@hotmail.fr" target="_blank" rel="noreferrer" title='E-Mail' className='Mail'>
     <ButtonExtern 
     className='btns'
     buttonStyle='btn--footer'
