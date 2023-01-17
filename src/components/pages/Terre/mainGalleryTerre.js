@@ -13,10 +13,12 @@ import photoUSA from "../../../data/images/Terre/USA/newyork.jpg";
 
 const MainGallery = () => {
 
+
+
   return (
     <>
     
-
+    
 <div className='Banner_France'>
     <Banner
     text_h ='FRANCE'

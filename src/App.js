@@ -6,6 +6,8 @@ import {BrowserRouter as Router, Route, Routes} from 'react-router-dom';
 import Home from './components/pages/Home';
 import Photos from './components/pages/Photos';
 import Print from './components/pages/Print';
+import Projects from './components/pages/Projects';
+import Drone from './components/pages/Drone';
 import Contact from './components/pages/Contact';
 
 import MainGalleryEspace from './components/pages/Espace/mainGalleryEspace';
@@ -15,12 +17,16 @@ import Gallery_nebula from './components/pages/Espace/nebula/Gallery_nebula';
 import Gallery_ciel from './components/pages/Espace/ciel/Gallery_ciel';
 import Gallery_planet from './components/pages/Espace/planet/Gallery_planet';
 
-
 import MainGalleryTerre from './components/pages/Terre/mainGalleryTerre';
 import Gallery_france from './components/pages/Terre/France/Gallery_france';
 import Gallery_italie from './components/pages/Terre/Italie/Gallery_italie';
 import Gallery_canada from './components/pages/Terre/Canada/Gallery_canada';
 import Gallery_USA from './components/pages/Terre/USA/Gallery_USA';
+
+
+import Montreal_S from './components/pages/drone/montreal_sunrise';
+import Cotentin_video from './components/pages/drone/cotentin';
+
 
 function App() {
   return (
@@ -31,6 +37,8 @@ function App() {
         <Route path="/" exact element={<Home/>}/>
         <Route path="/photos" exact element={<Photos/>}/>
         <Route path="/print" exact element={<Print/>}/>
+        <Route path="/projects" exact element={<Projects/>}/>
+        <Route path="/drone" exact element={<Drone/>}/>
         <Route path="/contact" exact element={<Contact/>}/>
         
         <Route path ="/mainGalleryTerre" exact element={<MainGalleryTerre/>}/>
@@ -47,6 +55,10 @@ function App() {
         <Route path ="/Gallery_nebula" exact element={<Gallery_nebula/>}/>
         <Route path ="/Gallery_ciel" exact element={<Gallery_ciel/>}/>
         <Route path ="/Gallery_planet" exact element={<Gallery_planet/>}/>
+
+        
+        <Route path ="/montreal_sunrise" exact element={<Montreal_S/>}/>
+        <Route path ="/cotentin" exact element={<Cotentin_video/>}/>
 
       </Routes>
     </Router>

@@ -19,7 +19,7 @@ const MainGallery = () => {
     
     <div className='Banner_all'>
     <Banner
-    text_h ='ASTROPHOTOGRAPHY'
+    text_h ='ASTRO'
     text_p = 'Travel through space and time'
     text_button = "TRAVEL"
     link_button = "/Gallery_all"

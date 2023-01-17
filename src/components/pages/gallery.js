@@ -4,6 +4,8 @@ import "./Gallery.css";
 import "../Navbar.css";
 import Roundflag from "./Terre/round_flag";
 
+import icon from "../../data/icon.png";
+
 /* PROPS 
 
 == FLAG ==
@@ -90,14 +92,31 @@ const [data,setData] = useState({img:'', i: 0})
 
 
   
+    <div className="parent">
 
+      <div className="child1">
       <img src={data.img} 
-           style = {{width: 'auto', 
+        style = {{width: 'auto', 
                   maxWidth: '100%', 
                   maxHeight: '80vh', 
-                  marginTop: '-80px'}} />
-   
+                  marginTop: '-80px'
+                  }} 
+      />
+      </div>
+
+      <div className="child2">
+        <img src={icon} />
+      </div>
     </div>
+
+  
+  </div>
+
+      
+
+      
+   
+    
     }
 
 
