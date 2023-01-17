@@ -2,7 +2,7 @@ import React from 'react';
 import Footer from '../../Footer';
 import DroneShotSection from './DroneShotSection';
 
-import video_stadium from "../../../data/videos/stadium.mov";
+// import video_stadium from "../../../data/videos/stadium.mov";
 
 function importAll(r) {
   return r.keys().map(r);

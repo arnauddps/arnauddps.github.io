@@ -20,7 +20,7 @@ export default function Contact() {
   </div>
 
   <div className="pitch_text">
-    fefl ezg herzkjhg reg jrlkg jlrkjg lrelgk nrelkgn lkerng kenrgklrn gnrelfefl ezg herzkjhg reg jrlkg jlrkjg lrelgk nrelkgn lkerng kenrgklrn gnrelfefl ezg herzkjhg reg jrlkg jlrkjg lrelgk nrelkgn lkerng kenrgklrn gnrelfefl ezg herzkjhg reg jrlkg jlrkjg lrelgk nrelkgn lkerng kenrgklrn gnrelfefl ezg herzkjhg reg jrlkg jlrkjg lrelgk nrelkgn lkerng kenrgklrn gnrelfefl ezg herzkjhg reg jrlkg jlrkjg lrelgk nrelkgn lkerng kenrgklrn gnrelfefl ezg herzkjhg reg jrlkg jlrkjg lrelgk nrelkgn lkerng kenrgklrn gnrel
+    My name is Arnaud Dupuis. I am currently studying Aerospace engineering and I am a space enthusiast. I started my photography journey 3 years ago, with astrophotography at first. During an entire year, I used a 200mm Newtonian telescope and a Canon DSLR to shoot deep space objects such as far galaxies, nebula and the solar system objects nearby our planet like Mars, Jupiter, Saturn and the Moon. Then, I got a GX9 hybrid camera and began to travel through Europe with it. Finland, Estonia, Italy, Marocco, Canada, USA... the year 2022 was for me the best opportunity to explore our world and to develop my skills in photography. A few months ago, I then had the idea to learn ReactJS and to code my very own website, Hivaoa. Eventually, this project is the combination of a passion for photography, space and the interest in coding. I am now very happy to share with you my work, my vision and my passion. Thank you for visiting my website.
   </div>
 </div>
   
