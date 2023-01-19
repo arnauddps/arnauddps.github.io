@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e261517f.css",
-    "main.js": "/static/js/main.13ed4218.js",
+    "main.js": "/static/js/main.87dd5a49.js",
     "static/media/mosaique.jpg": "/static/media/mosaique.4df5530beb6090e984f1.jpg",
     "static/media/cotentin.mp4": "/static/media/cotentin.0c527685baeec30d1a80.mp4",
     "static/media/m27.jpg": "/static/media/m27.347b148046af5b396d58.jpg",
@@ -44,11 +44,13 @@
     "static/media/3.jpg": "/static/media/3.15e6eb15b1cdb684b688.jpg",
     "static/media/nono.jpg": "/static/media/nono.ce88f0d3cb10816413ad.jpg",
     "static/media/m20.jpg": "/static/media/m20.1e356f2b6a9b262337f3.jpg",
+    "static/media/NY_ copie 2.jpg": "/static/media/NY_ copie 2.b6f328eecc84ec5008ba.jpg",
     "static/media/2.jpg": "/static/media/2.97fd01d34ee4a235ef26.jpg",
     "static/media/img-2.jpg": "/static/media/img-2.bb238fc1bea8ae2474d2.jpg",
     "static/media/img-4.jpg": "/static/media/img-4.a31875b76d39f6458a6e.jpg",
     "static/media/cotentin.png": "/static/media/cotentin.48473f82735549f68c8d.png",
     "static/media/chauve.jpg": "/static/media/chauve.3e22b119fb40700f601f.jpg",
+    "static/media/DJI_0370.jpg": "/static/media/DJI_0370.170049aafa2039d7a06f.jpg",
     "static/media/NY_3.jpg": "/static/media/NY_3.f888612c424b180075dc.jpg",
     "static/media/VL1.jpg": "/static/media/VL1.e41af7ac1a19cad24713.jpg",
     "static/media/fond_sat.jpg": "/static/media/fond_sat.f5660a38e0382c4cda2b.jpg",
@@ -62,6 +64,7 @@
     "static/media/NY_-8.jpg": "/static/media/NY_-8.0f076928908b92806d93.jpg",
     "static/media/NY_-24.jpg": "/static/media/NY_-24.5c9347c2d7f84e8428e5.jpg",
     "static/media/NY_-18.jpg": "/static/media/NY_-18.96cbc42de0cf415eab3f.jpg",
+    "static/media/NY_-2 copie.jpg": "/static/media/NY_-2 copie.74b051bc558da3ea090c.jpg",
     "static/media/NY_8.jpg": "/static/media/NY_8.ffca921869382a97dc3e.jpg",
     "static/media/NY_-16.jpg": "/static/media/NY_-16.2bc35a4df272be03792a.jpg",
     "static/media/NY_-15.jpg": "/static/media/NY_-15.ac425c0cbbeaf7af8c20.jpg",
@@ -98,6 +101,7 @@
     "static/media/NY_-25.jpg": "/static/media/NY_-25.86c4fad7033a0e755c82.jpg",
     "static/media/NY_-13.jpg": "/static/media/NY_-13.ac5c6da916f79f9f3bf7.jpg",
     "static/media/P1026012.jpg": "/static/media/P1026012.514a951c31584593840d.jpg",
+    "static/media/NY_ copie.jpg": "/static/media/NY_ copie.6209f18e098680de7458.jpg",
     "static/media/NY_-21.jpg": "/static/media/NY_-21.52f9d5f3d771fd9a15ad.jpg",
     "static/media/NY_-7.jpg": "/static/media/NY_-7.2a4dfa5374187325a70b.jpg",
     "static/media/jupiter telescope.jpg": "/static/media/jupiter telescope.451ccb3f1bce94a49d8c.jpg",
@@ -114,10 +118,10 @@
     "static/media/icon.png": "/static/media/icon.57cadb14125c286cdca0.png",
     "index.html": "/index.html",
     "main.e261517f.css.map": "/static/css/main.e261517f.css.map",
-    "main.13ed4218.js.map": "/static/js/main.13ed4218.js.map"
+    "main.87dd5a49.js.map": "/static/js/main.87dd5a49.js.map"
   },
   "entrypoints": [
     "static/css/main.e261517f.css",
-    "static/js/main.13ed4218.js"
+    "static/js/main.87dd5a49.js"
   ]
 }
