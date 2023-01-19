@@ -27,7 +27,7 @@ function Cards() {
               src= {photoCanada}
               text='Travel through the mountains of Eastern Canada'
               label='Canada'
-              path='/mainGalleryTerre'
+              path='/Gallery_Canada'
             />
           </ul>
           <ul className='cards__items'>
@@ -35,7 +35,7 @@ function Cards() {
               src= {photoUSA}
               text='Witness the highlights of the city that never sleeps : New York City'
               label='USA'
-              path='/services'
+              path='/Gallery_USA'
             />
             <CardItem
               src= {photoSpace}
