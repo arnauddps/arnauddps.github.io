@@ -21,7 +21,7 @@ function Cards() {
               src= {photoPortrait}
               text='People who have the power'
               label='Portraits'
-              path='/photos'
+              path='/Gallery_portrait'
             />
             <CardItem
               src= {photoCanada}

@@ -23,6 +23,7 @@ import Gallery_italie from './components/pages/Terre/Italie/Gallery_italie';
 import Gallery_canada from './components/pages/Terre/Canada/Gallery_canada';
 import Gallery_USA from './components/pages/Terre/USA/Gallery_USA';
 
+import Gallery_portrait from './components/pages/portrait/portrait';
 
 import Montreal_S from './components/pages/drone/montreal_sunrise';
 import Cotentin_video from './components/pages/drone/cotentin';
@@ -47,8 +48,8 @@ function App() {
         <Route path ="/Gallery_canada" exact element={<Gallery_canada/>}/>
         <Route path ="/Gallery_USA" exact element={<Gallery_USA/>}/>
 
+        <Route path ="/Gallery_portrait" exact element={<Gallery_portrait/>}/>
 
-        
         <Route path ="/mainGalleryEspace" exact element={<MainGalleryEspace/>}/>
         <Route path ="/Gallery_all" exact element={<Gallery_all/>}/>
         <Route path ="/Gallery_galaxy" exact element={<Gallery_galaxy/>}/>
