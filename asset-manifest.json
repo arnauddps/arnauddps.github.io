@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e261517f.css",
-    "main.js": "/static/js/main.87dd5a49.js",
+    "main.js": "/static/js/main.2e28ad0d.js",
     "static/media/mosaique.jpg": "/static/media/mosaique.4df5530beb6090e984f1.jpg",
     "static/media/cotentin.mp4": "/static/media/cotentin.0c527685baeec30d1a80.mp4",
     "static/media/m27.jpg": "/static/media/m27.347b148046af5b396d58.jpg",
@@ -65,6 +65,7 @@
     "static/media/NY_-24.jpg": "/static/media/NY_-24.5c9347c2d7f84e8428e5.jpg",
     "static/media/NY_-18.jpg": "/static/media/NY_-18.96cbc42de0cf415eab3f.jpg",
     "static/media/NY_-2 copie.jpg": "/static/media/NY_-2 copie.74b051bc558da3ea090c.jpg",
+    "static/media/diane_-4.jpg": "/static/media/diane_-4.35116ee10b3e15e1b491.jpg",
     "static/media/NY_8.jpg": "/static/media/NY_8.ffca921869382a97dc3e.jpg",
     "static/media/NY_-16.jpg": "/static/media/NY_-16.2bc35a4df272be03792a.jpg",
     "static/media/NY_-15.jpg": "/static/media/NY_-15.ac425c0cbbeaf7af8c20.jpg",
@@ -92,6 +93,7 @@
     "static/media/NY_5.jpg": "/static/media/NY_5.17aff336821099f96356.jpg",
     "static/media/NY_-4.jpg": "/static/media/NY_-4.aa600f26de06f89c82a8.jpg",
     "static/media/P1036504.jpg": "/static/media/P1036504.237488a5fa890591250f.jpg",
+    "static/media/diane_-19.jpg": "/static/media/diane_-19.306b3e7a925702205c37.jpg",
     "static/media/NY_11.jpg": "/static/media/NY_11.e1e58575884f0fbf60cc.jpg",
     "static/media/NY_1.jpg": "/static/media/NY_1.4653964cd9e89f5bdb74.jpg",
     "static/media/NY_-9.jpg": "/static/media/NY_-9.87a2f44f70ce48e8a206.jpg",
@@ -102,9 +104,12 @@
     "static/media/NY_-13.jpg": "/static/media/NY_-13.ac5c6da916f79f9f3bf7.jpg",
     "static/media/P1026012.jpg": "/static/media/P1026012.514a951c31584593840d.jpg",
     "static/media/NY_ copie.jpg": "/static/media/NY_ copie.6209f18e098680de7458.jpg",
+    "static/media/diane_-9.jpg": "/static/media/diane_-9.a528381741fd979daf1a.jpg",
     "static/media/NY_-21.jpg": "/static/media/NY_-21.52f9d5f3d771fd9a15ad.jpg",
     "static/media/NY_-7.jpg": "/static/media/NY_-7.2a4dfa5374187325a70b.jpg",
+    "static/media/diane_-11.jpg": "/static/media/diane_-11.52b4609bd90e6204ee1e.jpg",
     "static/media/jupiter telescope.jpg": "/static/media/jupiter telescope.451ccb3f1bce94a49d8c.jpg",
+    "static/media/diane_-27.jpg": "/static/media/diane_-27.5d4a0a20bb23f7ea784c.jpg",
     "static/media/NY_.jpg": "/static/media/NY_.a0e39f3cd820f938fbfc.jpg",
     "static/media/NY_-20.jpg": "/static/media/NY_-20.13e6f05d2551ff197f2d.jpg",
     "static/media/img-home.jpg": "/static/media/img-home.c034239ee9a63564602b.jpg",
@@ -118,10 +123,10 @@
     "static/media/icon.png": "/static/media/icon.57cadb14125c286cdca0.png",
     "index.html": "/index.html",
     "main.e261517f.css.map": "/static/css/main.e261517f.css.map",
-    "main.87dd5a49.js.map": "/static/js/main.87dd5a49.js.map"
+    "main.2e28ad0d.js.map": "/static/js/main.2e28ad0d.js.map"
   },
   "entrypoints": [
     "static/css/main.e261517f.css",
-    "static/js/main.87dd5a49.js"
+    "static/js/main.2e28ad0d.js"
   ]
 }
