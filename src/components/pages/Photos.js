@@ -7,14 +7,26 @@ import '../Banner.css';
 // import MainGallery from './Terre/main_gallery_terre';
 // import {BrowserRouter as Router, Route, Routes} from 'react-router-dom';
 
-import photoTerre from "../../data/images/Terre/USA/newyork.jpg";
-import photoEspace from "../../data/images/Espace/galaxy/m31.jpg";
+import photoTerre from "../../data/images/Terre/USA/NY_-7.jpg";
+import photoEspace from "../../data/images/Espace/ciel/VL3.jpg";
+import photoPortrait from "../../data/images/portrait/diane_10.jpg";
 
 
 export default function Photos() {
   return (
 
   <>  
+  <div className='Banner_portrait'>
+    <Banner
+    text_h ='PORTRAITS'
+    text_p = 'Meet unique people'
+    text_button = "MEETINGS"
+    link_button = "/Gallery_portrait"
+    src_video = '/videos/video-1.mp4'
+    image = {photoPortrait}
+    />
+  </div>
+  
 
   <div className='Banner_terre'>
     <Banner
@@ -39,6 +51,8 @@ export default function Photos() {
     />
   </div>
 
+
+  
 
 
 

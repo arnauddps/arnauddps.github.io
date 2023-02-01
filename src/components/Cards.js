@@ -3,7 +3,7 @@ import './Cards.css';
 import CardItem from './CardItem';
 // import CardItem from '../../public/images/';
 
-import photoPortrait from '../data/images/agathe.jpg';
+import photoPortrait from '../data/images/portrait/agathe.jpg';
 import photoCanada from '../data/images/Terre/Canada/1.jpeg';
 import photoUSA from '../data/images/Terre/USA/newyork.jpg';
 import photoSpace from '../data/images/Espace/Planet/lune.jpg';

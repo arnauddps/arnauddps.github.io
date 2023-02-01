@@ -32,41 +32,41 @@ export default function Contact() {
 
 
 
-<div className='prise_contact'>
-  <div className='prise_contact_block'>
-  <div className='prise_contact_title'>
-    Write me
-  </div>
- 
-  <div className='prise_contact_text'>
-    If you like my work and would like to collaborate with me, send me an email with all the details of your project : weddings, birthday party, professionnal event, solo & couple photoshoots, I am open to every opportunity.
-    If you like editing and you would like to purchase my presets, feel free to contact me and I will be happy to share the info with you.
+<div className='block'>
+  <div className='block_info'>
+  <h>Write me</h>
+  
+  <p> If you like my work and would like to collaborate with me, send me an email with all the details of your project : weddings, birthday party, professionnal event, solo & couple photoshoots, I am open to every opportunity. If you like editing and you would like to purchase my presets, feel free to contact me and I will be happy to share the info with you. </p>
 
-<div className='prise_contact_text-adress'>arnaud.dps@hotmail.fr</div>
+  <div className='block_info_adress'>arnaud.dps@hotmail.fr</div>
   </div>
-  </div>
+  
+  
 
-  <div className='logos_block'>
-    <div className='logos_block_case'>
-    <a href="mailto:arnauddupuis.photo@gmail.com" target="_blank" title='E-Mail' className='Mail'>
-    <ButtonExtern>
-    <i class="fa">&#xf0e0;</i>
-    MAIL
-    </ButtonExtern>
-    </a>
+  <div className='block_logos'>
+
+    <div className='block_logos_case'>
+      <a href="mailto:arnauddupuis.photo@gmail.com" target="_blank" title='E-Mail' className='Mail'>
+      <ButtonExtern>
+      <i class="fa">&#xf0e0;</i>
+      MAIL
+      </ButtonExtern>
+      </a>
     </div>
     
 
-    <div className='logos_block_case'>
-      <a href="https://www.instagram.com/hivaooa/">
-    <ButtonExtern>
-    <i class='fab fa-instagram' />
-    <text>      INSTAGRAM</text>
-    </ButtonExtern>
-    </a>
-    
-    </div>
+    <div className='block_logos_case'>
+        <a href="https://www.instagram.com/arnaud__dupuis/">
+        <ButtonExtern>
+          <i class='fab fa-instagram' />
+          <text>      INSTAGRAM</text>
+        </ButtonExtern>
+        </a>
+    </div>  
+
   </div>
+
+</div>
 
 
   {/* <Button
@@ -79,16 +79,7 @@ export default function Contact() {
           {props.text_button}
            </Button> */}
 
-
-
-
-</div>
-
-
-
-
-
-
 <Footer />
   </>
+
 }

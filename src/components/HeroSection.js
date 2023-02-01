@@ -13,8 +13,8 @@ function HeroSection() {
       <video src= {video_heroSection} autoPlay loop/>
       {/* <img src= {img1} alt=""/> */}
       
-      <h1>WELCOME TO HIVAOA</h1>
-      <p1>Rediscover our world</p1>
+      <h1>ARNAUD DUPUIS</h1>
+      <p1>Welcome on my website, discover my photographies and my drone projects</p1>
       <div className='hero-btns'>
         <Button
           className='btns'
@@ -29,9 +29,9 @@ function HeroSection() {
           className='btns'
           buttonStyle='btn--primary'
           buttonSize='btn--large'
-          path = '/videos'
+          path = '/drone'
         >
-          VIDEOS <i className='far fa-play-circle' />
+          PROJECTS <i className='far fa-play-circle' />
         </Button>
       </div>
     </div>

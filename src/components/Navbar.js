@@ -59,11 +59,21 @@ function Navbar() {
 
             <li className='nav-item'>
               <Link
+                to='/print'
+                className='nav-links'
+                onClick={closeMobileMenu}
+              >
+                Shop
+              </Link>
+            </li>
+
+            <li className='nav-item'>
+              <Link
                 to='/drone'
                 className='nav-links'
                 onClick={closeMobileMenu}
               >
-                Drone
+                Projects
               </Link>
             </li>
 

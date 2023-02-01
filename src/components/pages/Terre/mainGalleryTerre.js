@@ -20,7 +20,7 @@ const MainGallery = () => {
     
     
 <div className='Banner_France'>
-    <Banner
+    {/* <Banner
     text_h ='FRANCE'
     text_p = 'Retour aux sources'
     text_button = "DISCOVER"
@@ -28,7 +28,7 @@ const MainGallery = () => {
     // src_video = '/videos/video-2.mp4'
     image = {photoFrance}
     />
-  </div>
+  </div> */}
 
   <div className='Banner_Italie'>
     <Banner

@@ -27,6 +27,7 @@ import Gallery_portrait from './components/pages/portrait/portrait';
 
 import Montreal_S from './components/pages/drone/montreal_sunrise';
 import Cotentin_video from './components/pages/drone/cotentin';
+import Fwood from './components/pages/drone/fwood';
 
 
 function App() {
@@ -60,6 +61,7 @@ function App() {
         
         <Route path ="/montreal_sunrise" exact element={<Montreal_S/>}/>
         <Route path ="/cotentin" exact element={<Cotentin_video/>}/>
+        <Route path ="/fwood" exact element={<Fwood/>}/>
 
       </Routes>
     </Router>
