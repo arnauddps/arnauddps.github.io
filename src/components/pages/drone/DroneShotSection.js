@@ -24,7 +24,6 @@ function DroneShotSection(props) {
       width="100%"
       height="100%"
       controls
-      muted
     />
   </div>
   </div>

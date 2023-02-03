@@ -19,8 +19,8 @@ const MainGallery = () => {
     <>
     
     
-<div className='Banner_France'>
-    {/* <Banner
+{/*<div className='Banner_France'>
+     <Banner
     text_h ='FRANCE'
     text_p = 'Retour aux sources'
     text_button = "DISCOVER"

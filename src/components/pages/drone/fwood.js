@@ -16,9 +16,9 @@ const montreal_sunrise = () => {
     <>
     <DroneShotSection
     text_h = "Fwood"
-    text_p = "Be proud of having a product entirely made of local and high quality wood, in France. These vinyl storages will be a key element in your living room thanks to their modern and elegant design."
+    text_p = "Be proud of having a product entirely made of local and high quality wood, in France. These vinyl storages will be a key element in your living room thanks to their modern and elegant design. More info on https://fwoodvinyle.wixsite.com/home "
     // video = {video_stadium}
-    url = "https://youtu.be/Rxy3sV2NCWs"
+    url = "https://youtu.be/LhlcI-qclAw"
     b_previous = "PREVIOUS"
     b_next = "NEXT"
     images = {images_c}
