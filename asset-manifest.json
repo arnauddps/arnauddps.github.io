@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.d81024ee.css",
-    "main.js": "/static/js/main.64d5efd9.js",
+    "main.js": "/static/js/main.381aa0fc.js",
     "static/media/mosaique.jpg": "/static/media/mosaique.4df5530beb6090e984f1.jpg",
     "static/media/cotentin.mp4": "/static/media/cotentin.0c527685baeec30d1a80.mp4",
     "static/media/m27.jpg": "/static/media/m27.347b148046af5b396d58.jpg",
@@ -143,10 +143,10 @@
     "static/media/icon.png": "/static/media/icon.57cadb14125c286cdca0.png",
     "index.html": "/index.html",
     "main.d81024ee.css.map": "/static/css/main.d81024ee.css.map",
-    "main.64d5efd9.js.map": "/static/js/main.64d5efd9.js.map"
+    "main.381aa0fc.js.map": "/static/js/main.381aa0fc.js.map"
   },
   "entrypoints": [
     "static/css/main.d81024ee.css",
-    "static/js/main.64d5efd9.js"
+    "static/js/main.381aa0fc.js"
   ]
 }
