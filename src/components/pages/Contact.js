@@ -5,7 +5,7 @@ import { Button } from '../Button';
 import { ButtonExtern } from '../ButtonExtern';
 import { Link } from 'react-router-dom';
 
-import photo_presentation from "../../data/images/nono.jpg"
+import photo_presentation from "../../data/images/self.jpg"
 
 export default function Contact() {
   return <>
@@ -20,8 +20,10 @@ export default function Contact() {
   </div>
 
   <div className="pitch_text">
-    My name is Arnaud Dupuis. I am currently studying Aerospace engineering and I am a space enthusiast. I started my photography journey 3 years ago, with astrophotography at first. During an entire year, I used a 200mm Newtonian telescope and a Canon DSLR to shoot deep space objects such as far galaxies, nebula and the solar system objects nearby our planet like Mars, Jupiter, Saturn and the Moon. Then, I got a GX9 hybrid camera and began to travel through Europe with it. Finland, Estonia, Italy, Marocco, Canada, USA... the year 2022 was for me the best opportunity to explore our world and to develop my skills in photography. A few months ago, I then had the idea to learn ReactJS and to code my very own website, Hivaoa. Eventually, this project is the combination of a passion for photography, space and the interest in coding. I am now very happy to share with you my work, my vision and my passion. Thank you for visiting my website.
-  </div>
+  My name is Arnaud DUPUIS. I recently graduated from my engineering school and I am starting my career in Aerospace engineering field. Besides my education, photography has always been a passion and a way to display how you see things and how you feel when you capture the moment. I first began my journey doing astrophotography with a canon DSLR and a Newtonian telescope. I then got a Lumix GX9 that followed me everywhere I went to In the 2022 year. Italy, Marocco, Finland, Estonia, Greece, Canada and the USA. 
+Coding this website is the conclusion of my personal project. It’s the perfect combination of my interest for both photography and programming. I learned basics of reactJS to achieve my goal.
+I am now very happy to share my work with you. Thank you for visiting my website!
+</div>
 </div>
   
 

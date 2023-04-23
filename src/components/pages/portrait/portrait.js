@@ -26,9 +26,7 @@ const Gallery_portrait = () => {
       <h>Portraits</h>
 
       <div className="block_info_text">
-        <p>You like my work and would love to have your own pictures ? Get in touch with me by mail or instagram !
-        Indoor or outdoor, we will carry out a high-quality shooting and you will keep a unique memory of it.
-        For more info and planning a shooting with me - in Paris or Normandy - take a tour at my CONTACT page and email me.</p>
+        <p>Interested in havign your own pictures ? email me to organize a meeting in Paris or Normandy.</p>
       </div>
 
     </div>

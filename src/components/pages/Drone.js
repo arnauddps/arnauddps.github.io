@@ -3,6 +3,7 @@ import Banner from "../Banner";
 import Footer from "../Footer";
 import '../../App.css';
 
+import image_madeira from "../../data/images/drone/madeira.jpg";
 import image_cotentin from "../../data/images/drone/cotentin.png";
 import image_stadium from "../../data/images/drone/stadium.jpg";
 import image_fwood from "../../data/images/drone/fwood/meuble1.jpg";
@@ -11,6 +12,17 @@ import image_fwood from "../../data/images/drone/fwood/meuble1.jpg";
 export default function Drone() {
   return <>
   
+  <div className='Banner_drone'>
+    <Banner
+    text_h ='MADEIRA'
+    text_p = 'Far from Europe'
+    text_button = "TRAVEL"
+    link_button = "/madeira"
+    // src_video = '/videos/video-1.mp4'
+    image = {image_madeira}
+    />
+  </div>
+
   <div className='Banner_drone'>
     <Banner
     text_h ='COTENTIN'

@@ -44,12 +44,7 @@ function Footer() {
        
           </div>
 
-        <div class='footer-link-items'>
-            <h2>Print</h2>
-            <a href="https://etsy.com/">Buy</a>
-            <Link to='/contact'>Presets</Link>
-            <Link to='/photos'>View photos</Link>
-          </div>
+
 
 </div>
 <div className='footer-link-wrapper'>
